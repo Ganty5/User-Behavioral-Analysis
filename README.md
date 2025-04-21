@@ -3,6 +3,7 @@
 This project explores human behavior in economic decision-making using the **Ultimatum Game**. Through regression modeling, we investigate how offer sizes, gender, and year-based experimental conditions influence the behavior of responders in a game setting that challenges the classical notion of rational self-interest.
 
 ---
+<img width="814" alt="image" src="https://github.com/user-attachments/assets/4d0b000f-f7ad-49fe-81d2-29b14f678a74" />
 
 ## 🎯 Objective
 
